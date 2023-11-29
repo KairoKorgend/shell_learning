@@ -1,0 +1,1 @@
+ls --format=commas -I ".*" -p -I . -I.. -t --time=atime -F
